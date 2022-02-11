@@ -2,7 +2,7 @@
 <br><br>
 <h4> 👋 hello! 저는 신입 자바 백엔드 개발자를 꿈꾸는 오민혁 입니다.</h4>
 <p> (👋 hello! I'm Minhyuk Oh, who dreams of becoming a new Java backend developer.)</p>
-<hr><br><br>
+<br><br>
 
 <h4 align="center">⚒ Tech Stack ⚒</h4>
 <div style="float:left" align="center">
@@ -17,7 +17,7 @@
 <hr><br>
 
 <h4>🔗 Tech Blog : https://junior-develop112.tistory.com/ </h4>
-<h5>개발한지 얼마 안됬지만, 개발 공부 정리를 올려두는 개발 블로그를 운영중입니다.</h5>
+<h5>시작한지 얼마 안됬지만, 개발 공부 정리를 올려두는 개발 블로그를 운영중입니다.</h5>
 <hr><br>
 
 <h3>📖 주요 프로젝트 📖</h3>
