@@ -1,4 +1,4 @@
-<h3 align="center">MinhyukOh 's Github</h3>
+<h2 align="center">MinhyukOh 's Github</h2>
 <br><br>
 <h4> 👋 hello! 저는 신입 자바 백엔드 개발자를 꿈꾸는 오민혁 입니다.</h4>
 <p> (👋 hello! I'm Minhyuk Oh, who dreams of becoming a new Java backend developer.)</p>
