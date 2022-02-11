@@ -16,7 +16,7 @@
 </div>
 <hr><br>
 
-<h4>🔗 개발 Blog : https://junior-develop112.tistory.com/ </h4>
+<h4>🔗 Tech Blog : https://junior-develop112.tistory.com/ </h4>
 <h5>개발한지 얼마 안됬지만, 개발 공부 정리를 올려두는 개발 블로그를 운영중입니다.</h5>
 <hr><br>
 
