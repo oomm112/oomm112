@@ -27,11 +27,6 @@
 <h4>2. FintechPay-Api : https://github.com/oomm112/Fintechpay_ </h4>
 <h5>- openbanking API를 연동해 만들어본 API</h5><br>
 
-
-<h3>📖 진행중 프로젝트 📖</h3>
-<h4>1. SmartBuyer  : https://github.com/oomm112/SmartBuyer </h4>
-<h5>- 해외 쇼핑 사이트 + 국내 쇼핑 사이트들을 Jsonup(크롤링) 과 쇼핑몰 API를 통하여 가격을 비교해 볼 수 있는 사이트를 만들고 있습니다.</h5><br>
-
 <hr>
 <h3> Contact </h3>
 <h4>✉ Gmail : rumsk04622@gmail.com</h4>
