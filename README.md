@@ -1,6 +1,6 @@
 <h2 align="center">MinhyukOh 's Github</h2>
 <br><br>
-<h4> 👋 hello! 저는 신입 자바 백엔드 개발자 오민혁 입니다.</h4>
+<h4> 👋 hello! 저는 자바 백엔드 개발자 오민혁 입니다.</h4>
 <p> (👋 hello! I'm Minhyuk Oh, who is a new Java backend developer.)</p>
 <br><br>
 
