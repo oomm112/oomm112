@@ -27,6 +27,10 @@
 <h4>2. FintechPay-Api : https://github.com/oomm112/Fintechpay_ </h4>
 <h5>- openbanking API를 연동해 만들어본 API</h5><br>
 
+<h4>- 🌱 I’m currently learning ... </h4>
+- React 
+- Thymeleaf
+
 <hr>
 <h3> Contact </h3>
 <h4>✉ Gmail : rumsk04622@gmail.com</h4>
@@ -36,7 +40,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
