@@ -29,7 +29,7 @@
 
 <h4>- 🌱 I’m currently learning ... </h4>
 - React 
-- Thymeleaf
+- React native
 
 <hr>
 <h3> Contact </h3>
