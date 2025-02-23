@@ -1,7 +1,7 @@
 <h2 align="center">MinhyukOh 's Github</h2>
 <br><br>
-<h4> 👋 hello! 저는 주니어 자바 백엔드 개발자 오민혁 입니다.</h4>
-<p> (👋 hello! I'm Minhyuk Oh, who is a Junior Java backend developer.)</p>
+<h4> 👋 hello! 저는 3년차 웹 개발자 입니다.</h4>
+<p> (👋 hello! I'm a 3rd year web developer!)</p>
 <br><br>
 
 <h4 align="center">⚒ Tech Stack ⚒</h4>
