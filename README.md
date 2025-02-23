@@ -18,9 +18,12 @@
 
 <h4>🔗 Tech Blog : https://junior-develop112.tistory.com/ </h4>
 <h5>개발 공부 정리를 올려두는 개발 블로그를 운영중입니다.</h5>
+
+<h5>I'm currently changing my own blog to Gitghub pages</h5>
 <hr><br>
 
 <h3>📖 주요 프로젝트 📖</h3>
+
 <h4>1. Intranet-site : https://github.com/oomm112/In-house-Intranet </h4>
 <h5>- 회사 인트라넷을 구현해 본 사이트</h5>
 
