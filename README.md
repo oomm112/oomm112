@@ -1,4 +1,4 @@
-<h2 align="center">MinhyukOh 's Github</h2>
+<h2 align="center">Minhyuk Oh 's Github</h2>
 <br><br>
 <h4> 👋 hello! 저는 3년차 웹 개발자 입니다.</h4>
 <p> (👋 hello! I'm a 3rd year web developer!)</p>
