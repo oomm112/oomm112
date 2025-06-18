@@ -13,30 +13,37 @@
   <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=F7F4F4"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=F7F4F4"/>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=F7F4F4"/>
-</div>
-<hr><br>
+</div><br>
 
+<h4>- 🌱 I’m currently learning ... </h4>
+- React <br>
+- React native <br>
+- UI/UX <br>
+- Figma <br>
+
+<hr>
 <h4>🔗 Tech Blog : https://junior-develop112.tistory.com/ </h4>
 <h5>개발 공부 정리를 올려두는 개발 블로그를 운영중입니다.</h5>
 
-<h5>I'm currently changing my own blog to Gitghub pages</h5>
-<hr><br>
+<h5>➟ I'm currently changing my own blog to Gitghub pages</h5><br>
 
-<h3>📖 주요 프로젝트 📖</h3>
-
-<h4>1. Intranet-site : https://github.com/oomm112/In-house-Intranet </h4>
-<h5>- 회사 인트라넷을 구현해 본 사이트</h5>
-
-<h4>2. FintechPay-Api : https://github.com/oomm112/Fintechpay_ </h4>
-<h5>- openbanking API를 연동해 만들어본 API</h5><br>
-
-<h4>- 🌱 I’m currently learning ... </h4>
-- React 
-- React native
-
+<h3>📫 Contact </h3>
+<h4>Gmail : rumsk04622@gmail.com</h4>
 <hr>
-<h3> Contact </h3>
-<h4>✉ Gmail : rumsk04622@gmail.com</h4>
+
+<h3>🕗 Working on.. 🕗</h3>
+
+<h4>SafeTrip : https://github.com/oomm112/SafeTrip</h4>
+<h5>➟ This web is for taveler's safety trip and theirs convinence.</h5>
+<br>
+
+<h3>🎨 UI/UX Design 🎨</h3>
+
+<h4>UI/UX Style Guidline : https://github.com/oomm112/UI-UX-Style-Guideline</h4>
+<h5>➟ My own design guideline for UI/UX(Figma), it'll be updating</h5>
+
+<br><hr>
+
 <!--
 **oomm112/oomm112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
