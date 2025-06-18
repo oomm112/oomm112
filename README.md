@@ -42,7 +42,7 @@
 <h4>UI/UX Style Guidline : https://github.com/oomm112/UI-UX-Style-Guideline</h4>
 <h5>➟ My own design guideline for UI/UX(Figma), it'll be updating</h5>
 
-<br><hr>
+<br>
 
 <!--
 **oomm112/oomm112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
