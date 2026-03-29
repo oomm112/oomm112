@@ -18,7 +18,7 @@
 
 <h3>📊 Work Experience</h3><hr>
 
-<h4>Code guts - Web Developer</h4>
+<h4>Code guts - Backend Developer</h4>
 <h5>2022.02 - 2024.03 | Java · Spring Boot · Mysql · AWS · React Native</h5>
 <ul class="exp-list">
   <li class="exp-item">
@@ -49,7 +49,7 @@
 
 <br><br>
 
-<h4>Personal Project - Web Developer</h4>
+<h4>Personal Project - Backend Developer</h4>
 <h5>2024.03 - present | MYsql · AWS · Express.js · JS/TS · React </h5>
 
  <ul class="exp-list">
