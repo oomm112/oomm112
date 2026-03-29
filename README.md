@@ -77,21 +77,18 @@
   </ul>
 <hr>
 
-<div class="section">
-  <h3>⚡Peronal Project</h3>
-  <ul class="personal-project-row">
-    <li class="project-item></li>    
-  </ul>
-</div>
+<h3>⚡Peronal Project</h3>
+<ul class="project-row">
+  <li class="project-item"></li>
+</ul>
+<br><hr>
 
-<div class="section">
-    <h3 class="section-label">🌱 Currently Learning</h3>
-    <ul class="learning-row">
-      <li class="learning-pill">PostgreSQL</li>
-      <li class="learning-pill">MongoDB</li>
-      <li class="learning-pill">Python</li>
-    </ul>
-  </div>
+<h3 class="section-label">🌱 Currently Learning</h3>
+<ul class="learning-row">
+  <li class="learning-pill">PostgreSQL</li>
+  <li class="learning-pill">MongoDB</li>
+  <li class="learning-pill">Python</li>
+</ul>
 <hr>
 
 <h3>📫 How to reach me </h3>
