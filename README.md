@@ -20,38 +20,71 @@
 
 <h4>Code guts - Web Developer</h4>
 <h5>2022.02 - 2024.03 | Java · Spring Boot · Mysql · AWS · React Native</h5>
+<ul class="exp-list">
+  <li class="exp-item">
+    <div class="ko">숙박 업소 예약 시스템 통합관리 CMS/PMS 유지보수 및 기능 업데이트</div>
+    <div class="en"><em>Maintained and updated CMS/PMS integrated management system for accommodation booking services</em></div>
+  </li>
+  
+  <li class="exp-item">
+    <div class="ko">골프 프로 레슨 예약 시스템 유지보수 및 기능 업데이트 (Java · Spring Boot · MySQL · AWS)</div>
+    <div class="en"><em>Maintained and updated golf pro lesson booking system backend (Java · Spring Boot · MySQL · AWS)</em></div>
+  </li>
+  
+  <li class="exp-item">
+    <div class="ko">숙박 웹 서비스 결제·예약·회원 관리 REST API 및 JWT 기반 인증 설계·개발</div>
+    <div class="en"><em>Designed and built REST APIs and JWT-based authentication for accommodation web service — booking, payment, and member management</em></div>
+  </li>
+  
+  <li class="exp-item">
+    <div class="ko">서울 불꽃 축제 앱용 REST API 설계·개발 및 AWS 배포 (Java · Spring Boot · JWT · React Native)</div>
+    <div class="en"><em>Developed REST APIs for Seoul Fireworks Festival mobile app and deployed on AWS (Java · Spring Boot · JWT · React Native)</em></div>
+  </li>
+  
+  <li class="exp-item">
+    <div class="ko">숙박 예약 앱 백엔드 API 개발 및 React Native 앱 배포 (Java · Spring Boot · JWT)</div>
+    <div class="en"><em>Built backend APIs for accommodation booking app and supported React Native app deployment</em></div>
+  </li>
+</ul>
 
-- 숙박 업소 예약 시스템 통합관리 CMS/PMS 유지 보수 및 기능 업데이트
-- 골프 프로 레슨 예약 시스템 유지 보수 및 기능 업데이트
-  (Java · Spring boot · Spring Framework · Mysql · AWS)
-  
-- 숙박 웹 페이지의 결제 및 예약 및 회원 관리 및 페이지 제작
-  (Java · Spring boot · Spring Framework · Mysql · Bootstrap · JS · JWT · AWS)
-  
-- 서울 불꽃 축제 앱 제작 및 필요 Rest API 제작
-  (Java · Spring boot · JWT · React Native · AWS)
-  
-- 숙박 예약 앱을 React Native로 배포 및 제작
-  (Java · Spring boot · JWT · React Native)
 <br><br>
 
-<h4>Own business - Web Developer</h4>
+<h4>Personal Project - Web Developer</h4>
 <h5>2024.03 - present | MYsql · AWS · Express.js · JS/TS · React </h5>
 
-- 해외 주식 실시간 정보 및 거래 내용을 조회할 수 있는 사이트 개발
-  (React · CloudFront)
-- 실시간으로 외부 API에서 뉴스를 받아와 조회할 수 있는 스케쥴러를 이용한 소켓 및 별도 호출 API 개발
-  (Express.js · WebSocket · AWS)
-- 일 평균 100~200명 접속자 수로 운영 (현재는 중단 상태)
+ <ul class="exp-list">
+ 
+  <li class="exp-item">
+    <div class="ko">해외 주식 실시간 정보 및 거래 내역 조회 서비스 개발 (React · CloudFront)</div>
+    <div class="en"><em>Built real-time overseas stock information and trading history lookup service (React · AWS CloudFront)</em></div>
+  </li>
+  
+  <li class="exp-item">
+    <div class="ko">외부 API에서 실시간 뉴스를 수집·가공 후 스케줄러 기반으로 클라이언트에 전달하는 WebSocket 서버 및 REST API 개발</div>
+    <div class="en"><em>Developed WebSocket server and REST APIs that collect and process real-time news from external APIs, then deliver to clients on schedule</em></div>
+  </li>
+  
+  <li class="exp-item">
+    <div class="ko">일 평균 100~200명 접속자 서비스 운영 (현재 중단 상태)</div>
+    <div class="en"><em>Operated live service with 100–200 daily active users (currently on hold)</em></div>
+  </li>
 
+  <li class="exp-item">
+    <div class="ko">개인 프로젝트를 위한 카카오톡 챗봇 API 개발</div>
+    <div class="en"><em>Developed Kakaotalk chatbot API for personal project</em></div>
+  </li>
+  
+  </ul>
 <hr>
 
-
-<h4>🌱 I’m currently learning ... </h4>
-- Postgre SQL<br>
-- Mongo DB <br>
-- Python <br>
-
+<div class="section">
+    <h3 class="section-label">🌱 Currently Learning</h3>
+    <ul class="learning-row">
+      <li class="learning-pill">PostgreSQL</li>
+      <li class="learning-pill">MongoDB</li>
+      <li class="learning-pill">Python</li>
+    </ul>
+  </div>
 <hr>
 
 <h3>📫 How to reach me </h3>
