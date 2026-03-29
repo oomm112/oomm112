@@ -23,7 +23,7 @@
 <hr>
 
 <h3>📫 How to reach me </h3>
-<h4>Gmail : rumsk04622@gmail.com</h4>
+<h4>Gmail : <a href="mailto:rumsk04622@gmail.com">rumsk04622@gmail.com</a> </h4>
 <h4>Linkedin : www.linkedin.com/in/minhyuk-oh-94b36a229</h4>
 <hr>
 
