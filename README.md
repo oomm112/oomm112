@@ -78,6 +78,13 @@
 <hr>
 
 <div class="section">
+  <h3>⚡Peronal Project</h3>
+  <ul class="personal-project-row">
+    <li class="project-item></li>    
+  </ul>
+</div>
+
+<div class="section">
     <h3 class="section-label">🌱 Currently Learning</h3>
     <ul class="learning-row">
       <li class="learning-pill">PostgreSQL</li>
