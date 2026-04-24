@@ -79,7 +79,7 @@
 
 <h3>⚡Peronal Project</h3>
 <ul class="project-row">
-  <li class="project-item"></li>
+  <li class="project-item">(Working on) Concert-booking-app <link>(https://github.com/oomm112/Concert-booking-app)</link></li>
 </ul>
 <br><hr>
 
