@@ -81,6 +81,9 @@
 <ul class="project-row">
   <li class="project-item">(Working on) Concert-booking-app <link>(https://github.com/oomm112/Concert-booking-app)</link></li>
 </ul>
+<ul class="project-row">
+  <li class="project-item">(Portfolio) Rocketcandle-api <link>(https://github.com/oomm112/Portfolio-rocketcandle-api)</link></li>
+</ul>
 <br><hr>
 
 <h3 class="section-label">🌱 Currently Learning</h3>
