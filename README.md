@@ -90,7 +90,7 @@
 <ul class="learning-row">
   <li class="learning-pill">PostgreSQL</li>
   <li class="learning-pill">MongoDB</li>
-  <li class="learning-pill">Python</li>
+  <li class="learning-pill">Redis</li>
 </ul>
 <hr>
 
